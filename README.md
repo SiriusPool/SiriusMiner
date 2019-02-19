@@ -3,7 +3,7 @@
   - Nimiq Core to 1.4.3
 ## [ 0.2.8 ] - 	2019-02-15
   ### Added
-  - AtoUpgrade background service. 
+  - AutoUpgrade background service. 
   ### Changed 
   - Nimiq Core to 1.4.2
 
