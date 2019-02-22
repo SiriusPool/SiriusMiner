@@ -1,6 +1,6 @@
 ## [ 0.3.0 ] -  2019-02-22
  ### Fixed
-  -  Poollist will update when miner disconecting.
+  -  Poollist will update when miner disconnecting.
 ### Changed
  - AutoUpgrades will downloading from github since 0.3.0
  
