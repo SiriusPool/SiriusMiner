@@ -1,3 +1,9 @@
+## [ 0.3.0 ] -  2019-02-22
+ ### Fixed
+  -  Poollist will update when miner disconecting.
+### Changed
+ - AutoUpgrades will downloading from github since 0.3.0
+ 
 ## [ 0.2.9 ] -  2019-02-17
   ### Changed 
   - Nimiq Core to 1.4.3
