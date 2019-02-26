@@ -20,17 +20,3 @@
   ### Changed
 - Now Miners Use Nimiq Core 1.4.1 instead of 1.3.1
 
-## sirius.conf -- sample
-```json
-{
-        "address": "NQ18 37VM K2Y5 2HPY 5U80 2E0U VHUJ R7RK QSNE",
-        "threads": 16,
-        "name": "miner_name",
-        "email":"example@gmail.com",
-        "server":"siriuspool.net" ,
-        "autoUpdates": {
-          "enabled": true,
-          "default_install_location": "~/",
-         }
-}
-```
