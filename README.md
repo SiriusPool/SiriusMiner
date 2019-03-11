@@ -1,4 +1,10 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Kos-M/siriusminer/total.svg)](https://github.com/Kos-M/SiriusMiner/releases)
+## [ 0.3.6 ] -  2019-03-11
+## [ 0.3.5 ] -  2019-03-05
+## [ 0.3.4 ] -  2019-02-26
+## [ 0.3.3 ] -  2019-02-26
+## [ 0.3.2 ] -  2019-02-26
+## [ 0.3.1 ] -  2019-02-26
 ## [ 0.3.0 ] -  2019-02-22
  ### Fixed
   -  Poollist will update when miner disconnecting.
