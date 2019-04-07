@@ -1,4 +1,5 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Kos-M/siriusminer/total.svg)](https://github.com/Kos-M/SiriusMiner/releases)
+## [ 0.3.9 ] -  2019-03-30
 ## [ 0.3.8 ] -  2019-03-23
 ## [ 0.3.7 ] -  2019-03-23
 ## [ 0.3.6 ] -  2019-03-11
